@@ -100,11 +100,6 @@ Key CSS variables (in `minato.css`):
 - **Three.js**: [threejs.org](https://threejs.org/) (MIT License)
 - **Inspiration**: reactbits.dev split/reveal/decrypt/count patterns (ported to vanilla)
 
-## ⚖️ License
-
-MIT — Free to use, modify, and distribute.  
-Not affiliated with Shueisha, Viz Media, or Studio Pierrot.
-
 ---
 
 **Built with chakra and patience.** 🍥
