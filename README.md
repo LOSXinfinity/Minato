@@ -95,7 +95,7 @@ Key CSS variables (in `minato.css`):
 
 ## 📸 Credits
 
-- **Character**: Minato Namikaze — *Naruto* by Masashi Kishimoto / Shueisha
+- **Character**: Minato Namikaze — *Naruto* by Masashi Kishimoto
 - **Fonts**: Google Fonts (Shippori Mincho, Zen Kaku Gothic New, Anton, Space Grotesk, JetBrains Mono)
 - **Three.js**: [threejs.org](https://threejs.org/) (MIT License)
 - **Inspiration**: reactbits.dev split/reveal/decrypt/count patterns (ported to vanilla)
